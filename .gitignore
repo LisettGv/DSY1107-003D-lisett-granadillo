@@ -1,0 +1,22 @@
+# Entornos de desarrollo e IDEs
+.idea/
+.vscode/
+*.iml
+
+# Archivos de compilación (Java, Maven, Gradle)
+target/
+build/
+out/
+.gradle/
+*.class
+
+# Logs y variables de entorno sensibles (¡Secretos fuera!)
+*.log
+.env
+.env.*
+*.key
+*.pem
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
