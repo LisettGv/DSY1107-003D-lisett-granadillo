@@ -1,4 +1,4 @@
-# DevLog · Semana 03
+# Actividad 1 (25-08-2026): Implementación de API Gateway en AWS
 
 ## Objetivo
 Implementar un API Gateway en Amazon Web Services (AWS) como capa de gestión y proxy para servicios HTTP/REST.
@@ -15,5 +15,5 @@ Implementar un API Gateway en Amazon Web Services (AWS) como capa de gestión y 
 ## Aprendizaje
 - Comprender el rol crítico del API Gateway dentro de una arquitectura Cloud Native como punto único de entrada, desacoplando la firma pública de los clientes del backend real.
 
-## Siguiente
-- Aplicar capas de seguridad, reglas de autenticación (Tokens JWT / OAuth2 / API Keys) y políticas de Throttling/Rate Limiting sobre las rutas expuestas en el API Gateway.
+## Próximos Pasos
+- Aplicar capas de seguridad, reglas de autenticación (Tokens JWT / OAuth2 / API Keys) y políticas de Throttling/Rate Limiting sobre las rutas expuestas en el API Gateway de AWS.
