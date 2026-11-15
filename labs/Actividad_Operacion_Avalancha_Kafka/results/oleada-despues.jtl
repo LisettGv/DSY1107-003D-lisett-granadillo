@@ -1,0 +1,923 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1794762989157,4210,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,4200,0,82
+1794762993377,15,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,14,0,0
+1794762995359,11,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,11,0,0
+1794762997363,13,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,13,0,0
+1794762999361,13,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,12,0,0
+1794763001364,10,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,10,0,0
+1794763003364,9,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,300,219,1,1,http://compras-api:8080/api/compras,8,0,0
+1794763005371,22,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,22,0,0
+1794763007353,13,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,12,0,0
+1794763009360,9,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,9,0,0
+1794763011367,19,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,19,0,0
+1794763013355,8,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,8,0,0
+1794763015368,9,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,302,221,1,1,http://compras-api:8080/api/compras,8,0,0
+1794763017366,8,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,8,0,0
+1794763019369,14,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,302,221,1,1,http://compras-api:8080/api/compras,14,0,0
+1794763021361,17,POST /api/compras,201,,P1 · 00:00–00:35 · bajo 1-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,16,0,0
+1794763022093,11,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,11,0,2
+1794763022572,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,9,0,1
+1794763023413,10,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763026081,22,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,15,0,0
+1794763027413,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,300,219,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763028733,10,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763030079,8,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,8,0,0
+1794763031411,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763032747,18,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,17,0,0
+1794763034078,11,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,11,0,0
+1794763035404,25,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,25,0,0
+1794763036744,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763038063,13,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,13,0,0
+1794763039412,11,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,11,0,0
+1794763040738,10,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763042073,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763043410,17,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,17,0,0
+1794763044744,24,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,23,0,0
+1794763046068,23,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,23,0,0
+1794763047391,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,8,0,0
+1794763048726,12,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,302,221,2,2,http://compras-api:8080/api/compras,12,0,0
+1794763050075,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,8,0,0
+1794763051406,13,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,13,0,0
+1794763052741,9,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763054069,17,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,302,221,2,2,http://compras-api:8080/api/compras,16,0,0
+1794763055407,8,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,8,0,0
+1794763056733,24,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,302,221,2,2,http://compras-api:8080/api/compras,24,0,0
+1794763058076,16,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,16,0,0
+1794763059390,13,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,302,221,2,2,http://compras-api:8080/api/compras,13,0,0
+1794763060731,8,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,8,0,0
+1794763062068,70,POST /api/compras,201,,P2 · 00:35–01:15 · suave 2-1,text,true,,300,219,1,2,http://compras-api:8080/api/compras,67,0,0
+1794763062149,44,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,42,0,2
+1794763062411,11,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,10,0,1
+1794763062746,12,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,300,219,3,3,http://compras-api:8080/api/compras,12,0,1
+1794763063103,15,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,299,218,3,3,http://compras-api:8080/api/compras,15,0,0
+1794763065137,19,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,19,0,0
+1794763067134,20,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,299,218,3,3,http://compras-api:8080/api/compras,20,0,0
+1794763068135,13,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,13,0,0
+1794763069126,18,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,300,219,3,3,http://compras-api:8080/api/compras,18,0,0
+1794763070126,9,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763071133,14,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,14,0,0
+1794763072127,18,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,300,219,3,3,http://compras-api:8080/api/compras,18,0,0
+1794763073138,8,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763074131,11,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,11,0,0
+1794763075125,12,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,11,0,0
+1794763076139,9,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763077134,9,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763078134,19,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,19,0,0
+1794763079138,15,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,15,0,0
+1794763080139,11,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,10,0,0
+1794763081128,19,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,300,219,3,3,http://compras-api:8080/api/compras,19,0,0
+1794763082134,19,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,19,0,0
+1794763083136,16,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,16,0,0
+1794763084128,7,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763085129,19,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,18,0,0
+1794763086130,12,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,12,0,0
+1794763087144,29,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,29,0,0
+1794763088127,9,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763089134,7,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763090125,14,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,13,0,0
+1794763091137,42,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,31,0,0
+1794763092143,29,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,28,0,0
+1794763093123,12,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,12,0,0
+1794763094101,8,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763095111,12,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,12,0,0
+1794763096136,8,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763097142,8,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763098139,8,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,300,219,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763099140,9,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763100139,11,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-3,text,true,,302,221,2,2,http://compras-api:8080/api/compras,11,0,0
+1794763101139,15,POST /api/compras,201,,P3 · 01:15–01:55 · estable 3-1,text,true,,302,221,1,1,http://compras-api:8080/api/compras,14,0,0
+1794763102124,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,16,0,3
+1794763102189,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,9,0,0
+1794763102230,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,8,0,1
+1794763102277,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763102381,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,16,0,2
+1794763102446,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,17,0,0
+1794763102528,21,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,4,4,http://compras-api:8080/api/compras,20,0,0
+1794763102534,21,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,300,219,4,4,http://compras-api:8080/api/compras,21,0,2
+1794763102687,24,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,301,220,5,5,http://compras-api:8080/api/compras,24,0,0
+1794763102683,32,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,301,220,5,5,http://compras-api:8080/api/compras,28,0,3
+1794763102767,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,301,220,5,5,http://compras-api:8080/api/compras,7,0,0
+1794763102830,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,300,219,6,6,http://compras-api:8080/api/compras,8,0,1
+1794763102930,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763102982,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,301,220,7,7,http://compras-api:8080/api/compras,8,0,1
+1794763103011,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,7,7,http://compras-api:8080/api/compras,8,0,0
+1794763103131,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,8,8,http://compras-api:8080/api/compras,8,0,1
+1794763103176,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,8,8,http://compras-api:8080/api/compras,7,0,0
+1794763103251,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,8,8,http://compras-api:8080/api/compras,6,0,0
+1794763103282,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,9,9,http://compras-api:8080/api/compras,7,0,1
+1794763103361,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,9,9,http://compras-api:8080/api/compras,8,0,0
+1794763103429,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,10,10,http://compras-api:8080/api/compras,9,0,2
+1794763103524,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763103580,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,302,221,11,11,http://compras-api:8080/api/compras,7,0,1
+1794763103609,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,11,11,http://compras-api:8080/api/compras,6,0,0
+1794763103731,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,12,12,http://compras-api:8080/api/compras,9,0,1
+1794763103774,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,301,220,12,12,http://compras-api:8080/api/compras,6,0,0
+1794763103857,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,12,12,http://compras-api:8080/api/compras,7,0,0
+1794763103881,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,302,221,13,13,http://compras-api:8080/api/compras,9,0,1
+1794763104023,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,301,220,13,13,http://compras-api:8080/api/compras,7,0,0
+1794763104034,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,302,221,14,14,http://compras-api:8080/api/compras,9,0,1
+1794763104107,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,14,14,http://compras-api:8080/api/compras,8,0,0
+1794763104184,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,302,221,15,15,http://compras-api:8080/api/compras,10,0,1
+1794763104190,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,15,15,http://compras-api:8080/api/compras,15,0,0
+1794763104334,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,16,16,http://compras-api:8080/api/compras,12,0,2
+1794763104354,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,16,16,http://compras-api:8080/api/compras,10,0,0
+1794763104438,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,16,16,http://compras-api:8080/api/compras,10,0,0
+1794763104481,20,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,17,17,http://compras-api:8080/api/compras,20,0,1
+1794763104602,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,17,17,http://compras-api:8080/api/compras,10,0,0
+1794763104637,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,18,18,http://compras-api:8080/api/compras,13,0,2
+1794763104690,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,18,18,http://compras-api:8080/api/compras,11,0,0
+1794763104782,23,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,302,221,19,19,http://compras-api:8080/api/compras,23,0,3
+1794763104847,23,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,302,221,19,19,http://compras-api:8080/api/compras,23,0,0
+1794763104929,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,302,221,20,20,http://compras-api:8080/api/compras,12,0,2
+1794763104938,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,20,20,http://compras-api:8080/api/compras,15,0,0
+1794763105102,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763105187,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,301,220,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763105269,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763105433,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763105516,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763105680,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763105766,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,301,220,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763105930,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,301,220,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763106009,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763106175,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763106262,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763106343,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763106502,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763106595,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763106757,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763106839,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763106990,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763107079,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763107253,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763107335,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763107425,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763107508,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,17,0,0
+1794763107593,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763107675,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763107756,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,301,220,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763107841,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763107924,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763108007,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763108090,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,301,220,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763108171,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763108255,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763108334,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,301,220,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763108422,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,301,220,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763108506,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763108590,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763108671,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763108757,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,302,221,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763108839,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763108921,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763109005,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,301,220,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763109080,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763109159,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763109252,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763109333,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763109422,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763109505,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763109587,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763109669,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763109753,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763109835,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763109920,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,301,220,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763109999,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,301,220,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763110084,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763110160,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763110251,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763110328,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763110409,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763110499,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763110585,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763110665,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763110746,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763110831,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763110913,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763110992,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763111082,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763111160,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763111245,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763111324,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763111412,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763111495,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763111571,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763111655,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763111743,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763111827,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763111912,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763111987,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763112077,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763112160,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763112237,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763112321,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763112406,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763112490,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763112572,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763112657,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763112739,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763112823,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763112905,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763112990,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763113071,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763113155,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763113238,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763113323,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763113403,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763113483,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763113566,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763113650,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763113736,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763113819,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763113902,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763113988,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,17,0,0
+1794763114070,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763114150,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763114231,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763114319,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763114400,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763114484,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763114571,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763114650,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763114735,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763114814,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763114896,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763114980,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763115062,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763115145,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763115230,19,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,20,20,http://compras-api:8080/api/compras,19,0,0
+1794763115310,18,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,18,0,0
+1794763115393,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763115478,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763115552,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763115632,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763115719,18,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,17,0,0
+1794763115801,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763115887,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763115972,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763116057,29,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,29,0,0
+1794763116140,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763116218,21,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,20,0,0
+1794763116302,20,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,19,0,0
+1794763116382,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,301,220,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763116465,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763116556,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763116638,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763116714,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763116797,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763116876,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763116960,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763117053,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763117125,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763117217,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763117300,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763117377,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763117463,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763117550,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763117635,22,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,21,0,0
+1794763117696,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763117794,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763117869,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763117954,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763118046,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763118129,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763118218,34,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,34,0,0
+1794763118297,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763118380,21,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,21,0,0
+1794763118467,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763118550,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763118634,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763118715,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763118798,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763118880,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763118966,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763119047,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763119131,29,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,29,0,0
+1794763119212,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763119278,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763119379,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763119464,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763119545,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763119630,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763119711,25,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,303,222,20,20,http://compras-api:8080/api/compras,25,0,0
+1794763119794,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763119856,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763119959,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763120030,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763120124,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763120205,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763120293,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763120372,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763120456,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763120531,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763120619,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763120707,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763120768,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763120873,25,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,23,0,0
+1794763120953,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763121038,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763121120,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763121204,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763121285,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763121352,20,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763121452,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763121522,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763121619,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763121700,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763121781,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763121862,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763121942,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,15,0,0
+1794763122032,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,302,221,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763122118,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763122199,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763122282,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763122365,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763122449,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763122513,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,15,0,0
+1794763122616,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763122696,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763122779,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763122863,17,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763122948,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763123020,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763123110,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,302,221,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763123198,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763123281,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763123364,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763123445,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763123527,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763123605,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763123691,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763123772,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763123861,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763123950,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763124032,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763124104,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763124187,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763124272,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763124350,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763124442,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763124518,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763124612,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763124693,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763124779,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763124859,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763124940,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763125028,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763125110,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763125183,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763125270,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763125361,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763125433,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763125525,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763125599,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763125676,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763125771,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763125856,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763125939,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763126021,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763126094,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763126185,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763126270,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763126352,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763126434,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763126517,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763126602,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763126683,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763126767,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763126850,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763126936,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763127014,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763127100,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763127184,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,15,0,0
+1794763127267,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763127351,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763127433,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763127515,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763127597,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763127681,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763127759,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763127846,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763127926,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763128011,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763128096,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763128178,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763128261,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763128344,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763128426,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763128512,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763128591,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763128677,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763128759,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763128831,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763128925,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763129011,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763129093,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763129175,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763129260,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763129342,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763129419,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763129506,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763129589,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763129671,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763129757,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763129836,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763129922,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763130003,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763130088,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763130170,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763130252,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763130337,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763130421,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763130502,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763130584,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763130667,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,12,0,0
+1794763130744,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763130821,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763130910,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763130998,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763131079,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763131164,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763131247,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763131331,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763131413,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763131496,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763131579,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763131663,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763131747,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763131830,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763131911,24,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,24,0,0
+1794763131999,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763132078,11,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,11,0,0
+1794763132161,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763132247,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763132321,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763132411,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763132496,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763132576,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763132652,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763132742,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763132829,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763132909,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763132987,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763133077,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763133160,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763133246,16,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763133325,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763133408,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763133487,18,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,17,0,0
+1794763133555,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763133648,19,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,16,0,0
+1794763133736,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763133811,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763133901,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763133986,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763134061,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763134153,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763134237,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763134319,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763134399,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763134481,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763134568,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763134648,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763134732,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763134816,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763134887,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763134982,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135065,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763135135,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763135233,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135303,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763135396,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135480,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135562,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135648,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135731,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,302,221,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763135811,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763135896,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763135976,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763136061,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763136145,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763136230,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763136309,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763136395,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763136480,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763136562,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763136645,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763136727,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763136809,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763136893,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763136975,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763137060,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763137143,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,10,0,0
+1794763137226,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763137308,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,20,20,http://compras-api:8080/api/compras,15,0,0
+1794763137392,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763137474,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763137558,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,303,222,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763137640,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763137725,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763137807,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,303,222,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763137890,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763137973,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763138056,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763138138,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763138214,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763138307,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763138387,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763138470,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763138553,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763138634,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763138718,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763138800,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,304,223,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763138887,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,302,221,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763138959,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,304,223,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763139053,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763139132,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763139217,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763139301,14,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,302,221,20,20,http://compras-api:8080/api/compras,14,0,0
+1794763139381,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763139468,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763139551,31,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,303,222,20,20,http://compras-api:8080/api/compras,31,0,0
+1794763139634,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763139717,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763139799,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,20,20,http://compras-api:8080/api/compras,5,0,0
+1794763139884,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,302,221,20,20,http://compras-api:8080/api/compras,8,0,0
+1794763139965,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,304,223,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763140046,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,303,222,20,20,http://compras-api:8080/api/compras,9,0,0
+1794763140132,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,303,222,20,20,http://compras-api:8080/api/compras,7,0,0
+1794763140214,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,302,221,20,20,http://compras-api:8080/api/compras,6,0,0
+1794763140299,3,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,304,223,20,20,http://compras-api:8080/api/compras,3,0,0
+1794763140379,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,304,223,20,20,http://compras-api:8080/api/compras,4,0,0
+1794763140464,13,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-20,text,true,,303,222,20,20,http://compras-api:8080/api/compras,13,0,0
+1794763140546,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-1,text,true,,303,222,19,19,http://compras-api:8080/api/compras,7,0,0
+1794763140629,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-12,text,true,,303,222,18,18,http://compras-api:8080/api/compras,4,0,0
+1794763140708,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-7,text,true,,303,222,17,17,http://compras-api:8080/api/compras,5,0,0
+1794763140795,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-4,text,true,,302,221,16,16,http://compras-api:8080/api/compras,6,0,0
+1794763140879,9,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-13,text,true,,304,223,15,15,http://compras-api:8080/api/compras,8,0,0
+1794763140950,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-8,text,true,,303,222,14,14,http://compras-api:8080/api/compras,6,0,0
+1794763141045,8,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-14,text,true,,304,223,13,13,http://compras-api:8080/api/compras,8,0,0
+1794763141127,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-3,text,true,,302,221,12,12,http://compras-api:8080/api/compras,5,0,0
+1794763141186,4,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-15,text,true,,304,223,11,11,http://compras-api:8080/api/compras,4,0,0
+1794763141292,7,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763141376,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-16,text,true,,304,223,9,9,http://compras-api:8080/api/compras,6,0,0
+1794763141460,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-9,text,true,,303,222,8,8,http://compras-api:8080/api/compras,5,0,0
+1794763141538,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-2,text,true,,303,222,7,7,http://compras-api:8080/api/compras,4,0,0
+1794763141617,5,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-17,text,true,,303,222,6,6,http://compras-api:8080/api/compras,5,0,0
+1794763141700,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-10,text,true,,304,223,5,5,http://compras-api:8080/api/compras,6,0,0
+1794763141789,15,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-18,text,true,,304,223,4,4,http://compras-api:8080/api/compras,15,0,0
+1794763141873,6,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-6,text,true,,303,222,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763141958,10,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-19,text,true,,303,222,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763142041,12,POST /api/compras,201,,P4 · 01:55–02:35 · AVALANCHA 4-11,text,true,,303,222,1,1,http://compras-api:8080/api/compras,12,0,0
+1794763142138,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,8,0,3
+1794763142207,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,5,0,0
+1794763142307,11,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,11,0,1
+1794763142327,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763142406,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,300,219,4,4,http://compras-api:8080/api/compras,9,0,2
+1794763142510,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,301,220,5,5,http://compras-api:8080/api/compras,9,0,1
+1794763142609,10,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,300,219,6,6,http://compras-api:8080/api/compras,9,0,1
+1794763142725,10,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,301,220,7,7,http://compras-api:8080/api/compras,10,0,1
+1794763142729,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,301,220,7,7,http://compras-api:8080/api/compras,9,0,0
+1794763142817,27,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,302,221,8,8,http://compras-api:8080/api/compras,27,0,5
+1794763142906,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,302,221,9,9,http://compras-api:8080/api/compras,8,0,1
+1794763143007,11,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,10,10,http://compras-api:8080/api/compras,11,0,2
+1794763143125,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763143330,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763143727,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763144125,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763144527,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763144927,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763145128,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763145503,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763145927,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,300,219,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763146324,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763146529,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763146729,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763146930,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763147129,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763147331,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763147529,14,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,302,221,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763147729,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763147931,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763148133,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,301,220,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763148331,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763148532,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763148729,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763148929,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763149129,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763149330,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763149524,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763149728,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763149930,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,301,220,10,10,http://compras-api:8080/api/compras,11,0,0
+1794763150129,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,301,220,10,10,http://compras-api:8080/api/compras,12,0,0
+1794763150329,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763150529,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,12,0,0
+1794763150731,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763150931,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,302,221,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763151129,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763151328,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763151530,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,301,220,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763151730,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763151927,11,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,301,220,10,10,http://compras-api:8080/api/compras,11,0,0
+1794763152124,15,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,302,221,10,10,http://compras-api:8080/api/compras,14,0,0
+1794763152323,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763152524,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763152728,14,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,301,220,10,10,http://compras-api:8080/api/compras,14,0,0
+1794763152931,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,302,221,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763153132,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,301,220,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763153331,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763153533,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,302,221,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763153731,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763153921,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,302,221,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763154120,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,302,221,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763154332,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763154532,15,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,301,220,10,10,http://compras-api:8080/api/compras,15,0,0
+1794763154723,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763154932,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763155129,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,301,220,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763155334,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,300,219,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763155526,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,302,221,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763155731,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763155936,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763156134,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,301,220,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763156333,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763156521,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763156731,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763156929,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763157130,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,301,220,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763157331,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763157522,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,301,220,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763157734,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763157932,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763158128,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,301,220,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763158324,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763158530,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763158731,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763158930,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,301,220,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763159127,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763159328,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763159528,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,302,221,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763159728,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763159929,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763160128,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763160331,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763160531,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763160730,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763160930,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,301,220,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763161131,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763161333,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763161527,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763161731,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763161933,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,303,222,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763162130,17,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,303,222,10,10,http://compras-api:8080/api/compras,17,0,0
+1794763162330,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,304,223,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763162529,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763162730,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763162930,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763163129,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763163329,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,303,222,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763163529,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,303,222,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763163730,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763163923,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763164120,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,303,222,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763164327,10,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,304,223,10,10,http://compras-api:8080/api/compras,10,0,0
+1794763164530,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763164730,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763164929,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,303,222,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763165130,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763165331,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763165532,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,303,222,10,10,http://compras-api:8080/api/compras,12,0,0
+1794763165732,10,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763165929,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,303,222,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763166127,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763166325,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,304,223,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763166532,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,303,222,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763166732,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763166931,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,303,222,10,10,http://compras-api:8080/api/compras,11,0,0
+1794763167131,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,303,222,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763167332,10,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,10,0,0
+1794763167521,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763167727,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,303,222,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763167931,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,302,221,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763168130,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,303,222,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763168332,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,303,222,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763168529,10,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,303,222,10,10,http://compras-api:8080/api/compras,10,0,0
+1794763168729,3,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,303,222,10,10,http://compras-api:8080/api/compras,3,0,0
+1794763168924,14,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,303,222,10,10,http://compras-api:8080/api/compras,14,0,0
+1794763169130,17,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,16,0,0
+1794763169326,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,303,222,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763169529,4,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,302,221,10,10,http://compras-api:8080/api/compras,4,0,0
+1794763169724,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763169925,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,302,221,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763170123,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763170329,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,304,223,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763170526,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,301,220,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763170734,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,301,220,10,10,http://compras-api:8080/api/compras,12,0,0
+1794763170924,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,301,220,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763171126,18,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,18,0,0
+1794763171346,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763171534,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,303,222,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763171731,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763171931,11,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,303,222,10,10,http://compras-api:8080/api/compras,10,0,0
+1794763172131,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,303,222,10,10,http://compras-api:8080/api/compras,9,0,0
+1794763172332,13,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,303,222,10,10,http://compras-api:8080/api/compras,13,0,0
+1794763172531,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,303,222,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763172725,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763172928,5,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,303,222,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763173112,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763173313,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,303,222,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763173528,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,301,220,10,10,http://compras-api:8080/api/compras,5,0,0
+1794763173729,6,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,303,222,10,10,http://compras-api:8080/api/compras,6,0,0
+1794763173926,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,301,220,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763174126,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,303,222,10,10,http://compras-api:8080/api/compras,12,0,0
+1794763174323,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,304,223,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763174531,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,10,10,http://compras-api:8080/api/compras,7,0,0
+1794763174729,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763174930,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,303,222,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763175129,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-5,text,true,,302,221,10,10,http://compras-api:8080/api/compras,8,0,0
+1794763175329,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-6,text,true,,303,222,9,9,http://compras-api:8080/api/compras,8,0,0
+1794763175537,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-7,text,true,,303,222,8,8,http://compras-api:8080/api/compras,7,0,0
+1794763175729,9,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-2,text,true,,302,221,7,7,http://compras-api:8080/api/compras,9,0,0
+1794763175928,18,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-8,text,true,,303,222,6,6,http://compras-api:8080/api/compras,18,0,0
+1794763176124,8,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-9,text,true,,302,221,5,5,http://compras-api:8080/api/compras,8,0,0
+1794763176330,7,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-10,text,true,,302,221,4,4,http://compras-api:8080/api/compras,7,0,0
+1794763176530,11,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,10,0,0
+1794763176727,12,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-1,text,true,,303,222,2,2,http://compras-api:8080/api/compras,11,0,0
+1794763176927,19,POST /api/compras,201,,P5 · 02:35–03:10 · descendente 5-4,text,true,,302,221,1,1,http://compras-api:8080/api/compras,13,0,0
+1794763177231,23,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,22,0,3
+1794763177298,77,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,35,0,14
+1794763177455,32,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,32,0,1
+1794763177503,33,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,33,0,0
+1794763177634,24,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,4,4,http://compras-api:8080/api/compras,24,0,5
+1794763177786,18,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,301,220,5,5,http://compras-api:8080/api/compras,18,0,9
+1794763177957,9,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,301,220,6,6,http://compras-api:8080/api/compras,9,0,1
+1794763178138,17,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,301,220,6,6,http://compras-api:8080/api/compras,16,0,0
+1794763178849,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,300,219,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763179181,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763179851,13,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,13,0,0
+1794763180528,12,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,300,219,6,6,http://compras-api:8080/api/compras,12,0,0
+1794763181203,9,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763181530,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763181873,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763182204,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763182530,5,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,5,0,0
+1794763182868,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,301,220,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763183202,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763183539,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763183868,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763184202,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763184542,10,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,6,6,http://compras-api:8080/api/compras,10,0,0
+1794763184871,22,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,301,220,6,6,http://compras-api:8080/api/compras,22,0,0
+1794763185206,14,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,13,0,0
+1794763185537,13,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,13,0,0
+1794763185871,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763186204,9,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,6,6,http://compras-api:8080/api/compras,9,0,0
+1794763186532,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763186840,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763187193,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763187528,5,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,5,0,0
+1794763187865,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,5,0,0
+1794763188198,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763188533,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763188867,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763189199,10,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,301,220,6,6,http://compras-api:8080/api/compras,10,0,0
+1794763189534,21,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,301,220,6,6,http://compras-api:8080/api/compras,21,0,0
+1794763189868,11,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,6,6,http://compras-api:8080/api/compras,11,0,0
+1794763190198,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,300,219,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763190532,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763190865,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,300,219,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763191196,14,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,14,0,0
+1794763191513,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,301,220,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763191858,14,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,14,0,0
+1794763192195,15,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,15,0,0
+1794763192529,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763192863,13,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,13,0,0
+1794763193186,11,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,10,0,0
+1794763193528,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763193853,19,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,6,6,http://compras-api:8080/api/compras,19,0,0
+1794763194182,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763194526,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763194853,15,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,15,0,0
+1794763195188,40,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,39,0,0
+1794763195541,14,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,14,0,0
+1794763195844,10,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,6,6,http://compras-api:8080/api/compras,10,0,0
+1794763196192,9,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,9,0,0
+1794763196524,18,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,17,0,0
+1794763196847,11,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,11,0,0
+1794763197152,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763197499,11,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,11,0,0
+1794763197854,14,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,300,219,6,6,http://compras-api:8080/api/compras,14,0,0
+1794763198185,22,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,6,6,http://compras-api:8080/api/compras,21,0,0
+1794763198521,87,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,87,0,0
+1794763198852,18,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,18,0,0
+1794763199187,18,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,301,220,6,6,http://compras-api:8080/api/compras,18,0,0
+1794763199513,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763199847,12,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,11,0,0
+1794763200169,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763200415,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763200840,15,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,15,0,0
+1794763201181,12,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,301,220,6,6,http://compras-api:8080/api/compras,11,0,0
+1794763201519,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763201847,11,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,11,0,0
+1794763202184,27,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,27,0,0
+1794763202532,16,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,6,6,http://compras-api:8080/api/compras,16,0,0
+1794763202845,22,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,21,0,0
+1794763203172,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763203517,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763203846,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763204152,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763204493,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763204832,5,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,302,221,6,6,http://compras-api:8080/api/compras,5,0,0
+1794763205182,9,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,9,0,0
+1794763205516,18,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,18,0,0
+1794763205848,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763206182,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763206516,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,300,219,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763206850,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,301,220,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763207177,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763207501,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763207847,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763208181,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,301,220,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763208513,8,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,301,220,6,6,http://compras-api:8080/api/compras,8,0,0
+1794763208847,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,301,220,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763209179,11,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,301,220,6,6,http://compras-api:8080/api/compras,10,0,0
+1794763209510,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763209844,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,6,6,http://compras-api:8080/api/compras,6,0,0
+1794763210178,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-1,text,true,,302,221,6,6,http://compras-api:8080/api/compras,7,0,0
+1794763210509,7,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-4,text,true,,302,221,5,5,http://compras-api:8080/api/compras,7,0,0
+1794763210843,5,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-5,text,true,,303,222,4,4,http://compras-api:8080/api/compras,5,0,0
+1794763211172,6,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-6,text,true,,303,222,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763211510,4,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,4,0,0
+1794763211844,23,POST /api/compras,201,,P6 · 03:10–03:45 · recuperacion 1 6-3,text,true,,302,221,1,1,http://compras-api:8080/api/compras,23,0,0
+1794763212176,16,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,16,0,5
+1794763212468,13,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,12,0,1
+1794763212797,10,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,9,0,2
+1794763212821,5,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763214162,13,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,13,0,0
+1794763215507,20,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,20,0,0
+1794763216173,15,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,299,218,3,3,http://compras-api:8080/api/compras,15,0,0
+1794763216828,21,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,300,219,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763217477,9,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,299,218,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763218160,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763218821,13,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,13,0,0
+1794763219502,18,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,16,0,0
+1794763220169,8,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763220831,9,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763221491,8,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763222167,8,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763222836,10,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,10,0,0
+1794763223503,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763224171,9,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763224837,17,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,17,0,0
+1794763225506,9,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763226172,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763226831,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763227505,8,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763228175,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763228840,5,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763229509,5,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763230176,5,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763230844,4,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,4,0,0
+1794763231512,5,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763232176,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763232846,9,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,9,0,0
+1794763233511,6,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763234178,6,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763234853,6,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763235515,13,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,13,0,0
+1794763236177,8,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763236833,6,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763237502,8,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,8,0,0
+1794763238179,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763238846,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763239513,6,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763240181,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763240847,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763241516,7,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,7,0,0
+1794763242184,32,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,3,3,http://compras-api:8080/api/compras,31,0,0
+1794763242851,16,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,16,0,0
+1794763243515,5,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,302,221,3,3,http://compras-api:8080/api/compras,5,0,0
+1794763244154,11,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,302,221,3,3,http://compras-api:8080/api/compras,11,0,0
+1794763244837,6,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,3,3,http://compras-api:8080/api/compras,6,0,0
+1794763245521,4,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-3,text,true,,301,220,3,3,http://compras-api:8080/api/compras,4,0,0
+1794763246179,4,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,4,0,0
+1794763246851,4,POST /api/compras,201,,P7 · 03:45–04:20 · recuperacion 2 7-2,text,true,,301,220,1,1,http://compras-api:8080/api/compras,4,0,0
+1794763247150,6,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,1,1,http://compras-api:8080/api/compras,6,0,1
+1794763247630,4,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,4,0,1
+1794763249145,13,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,13,0,0
+1794763253146,13,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,13,0,0
+1794763255134,9,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763257136,5,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,5,0,0
+1794763259142,7,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,7,0,0
+1794763261143,7,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,300,219,2,2,http://compras-api:8080/api/compras,7,0,0
+1794763263143,5,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,5,0,0
+1794763265140,9,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763267144,6,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,302,221,2,2,http://compras-api:8080/api/compras,6,0,0
+1794763269140,46,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,301,220,2,2,http://compras-api:8080/api/compras,46,0,0
+1794763271144,10,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,9,0,0
+1794763273102,11,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763275135,7,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,302,221,2,2,http://compras-api:8080/api/compras,7,0,0
+1794763277143,10,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,10,0,0
+1794763279148,7,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,7,0,0
+1794763281138,7,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,302,221,2,2,http://compras-api:8080/api/compras,7,0,0
+1794763283141,8,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-1,text,true,,301,220,2,2,http://compras-api:8080/api/compras,8,0,0
+1794763285144,22,POST /api/compras,201,,P8 · 04:20–05:00 · cola 8-2,text,true,,301,220,1,1,http://compras-api:8080/api/compras,18,0,0

@@ -29,10 +29,10 @@ services:
   procesador-api:
     environment:
       APP_CHAOS_ENABLED: "false"
-      APP_INCIDENT_DEPENDENCY_LATENCY_MS: "${DEPENDENCY_LATENCY_MS:-450}"
+      APP_INCIDENT_DEPENDENCY_LATENCY_MS: "${DEPENDENCY_LATENCY_MS:-100}"
       # La ruta de reintentos/DLT del Game Day NO se activa: se espera carga sana con backlog.
       APP_KAFKA_DLT_TOPIC: ""
-      SPRING_KAFKA_LISTENER_CONCURRENCY: "${LISTENER_CONCURRENCY:-1}"
+      SPRING_KAFKA_LISTENER_CONCURRENCY: "${LISTENER_CONCURRENCY:-3}"
     depends_on:
       topics-burst-init:
         condition: service_completed_successfully
