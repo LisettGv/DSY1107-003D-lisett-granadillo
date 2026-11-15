@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Portal de apoyo de DSY1107 Desarrollo Cloud Native I, semestre 2026-2." />
+  <title>DSY1107 · Desarrollo Cloud Native I</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+  <header class="hero">
+    <div class="container">
+      <p class="eyebrow">DSY1107 · 2026-2</p>
+      <h1>Desarrollo Cloud Native I</h1>
+      <p class="lead">Concepto → ejemplo → ejercicio → laboratorio → transferencia a RegistrApp.</p>
+      <div class="actions">
+        <a class="button primary" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/semanas/semana-08">Semana 08</a>
+        <a class="button" href="progreso.html">Mi progreso</a>
+        <a class="button" href="repositorio-estudiante.html">Repositorio del estudiante</a>
+        <a class="button" href="identidad.html">Identidad y acceso</a>
+        <a class="button" href="https://drive.google.com/drive/folders/1UOZMZcEbtfKFq4ygWKj3Yi8VEHkW7hx1?usp=sharing">Material público</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="container layout">
+    <section class="card current-week">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Semana 08 · 28 septiembre–3 octubre</p>
+          <h2>Mensajería asíncrona y RabbitMQ</h2>
+        </div>
+        <span class="badge">RA2 · IL2.1</span>
+      </div>
+
+      <ol class="topics">
+        <li><strong>Problema antes que herramienta.</strong> Distingue cuándo una capacidad requiere respuesta inmediata y cuándo conviene desacoplarla.</li>
+        <li><strong>Modelo básico.</strong> Producer → Broker → Queue → Consumer.</li>
+        <li><strong>RabbitMQ local.</strong> Levanta el broker con Docker y observa 5672/15672.</li>
+        <li><strong>Hello World.</strong> Publica y consume un mensaje con Spring AMQP.</li>
+        <li><strong>Routing explícito.</strong> DirectExchange, bindings y routing keys.</li>
+        <li><strong>Arquitectura.</strong> REST Controller y Rabbit Listener pueden activar la misma capacidad sin duplicar negocio.</li>
+      </ol>
+
+      <div class="actions">
+        <a class="button primary" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/semanas/semana-08">Contenido</a>
+        <a class="button" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/examples/semana-08">Ejemplos</a>
+        <a class="button" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/ejercicios/semana-08">Ejercicios</a>
+        <a class="button" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/labs/rabbitmq-spring-amqp">Lab RabbitMQ</a>
+        <a class="button" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/proyecto-formativo/semana-08">RegistrApp</a>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <p class="eyebrow">Base académica</p>
+        <h2>Qué forma la asignatura</h2>
+        <p>PDA/PA resumido, resultados de aprendizaje, ruta de aprendizaje y cronograma 2026-2.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/docs">Abrir documentación →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Observar</p>
+        <h2>Ejemplos</h2>
+        <p>Demostraciones pequeñas e independientes de RegistrApp para aislar una idea técnica.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/examples">Abrir ejemplos →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Practicar</p>
+        <h2>Ejercicios</h2>
+        <p>Actividades breves de análisis, diseño y diagnóstico antes de entrar a un lab.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/ejercicios">Abrir ejercicios →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Experimentar</p>
+        <h2>Laboratorios</h2>
+        <p>Experiencias guiadas locales o provider-backed con etapas, checkpoints, evidencia y troubleshooting.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/labs">Abrir labs →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Transferir</p>
+        <h2>RegistrApp</h2>
+        <p>Proyecto vivo del semestre. Recibe únicamente competencias ya comprendidas y demostradas.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/proyecto-formativo">Abrir RegistrApp →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Evaluaciones</p>
+        <h2>Mapa evaluativo</h2>
+        <p>Orientaciones, relación con RA/IL y ventanas del cronograma. AVA/Drive mantienen la autoridad oficial.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/evaluaciones">Abrir evaluaciones →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Preparación integrada</p>
+        <h2>CloudTasks · EP1</h2>
+        <p>Lab provider-backed end-to-end rescatado: Angular, Entra, JWT, Spring Security, EC2, Gateway, CORS y troubleshooting.</p>
+        <a class="text-link" href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2/tree/master/labs/cloudtasks-ev1-integrado">Abrir lab integrado →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Seguimiento</p>
+        <h2>Mi progreso</h2>
+        <p>Checklist local de la semana vigente. No es una calificación ni se envía al docente.</p>
+        <a class="text-link" href="progreso.html">Abrir checklist →</a>
+      </article>
+
+      <article class="card">
+        <p class="eyebrow">Material original</p>
+        <h2>Google Drive</h2>
+        <p>Biblioteca pública de archivos y recursos originales de la asignatura.</p>
+        <a class="text-link" href="https://drive.google.com/drive/folders/1UOZMZcEbtfKFq4ygWKj3Yi8VEHkW7hx1?usp=sharing">Abrir Drive →</a>
+      </article>
+    </section>
+
+    <section class="card note">
+      <h2>Regla del repositorio</h2>
+      <p><strong>README = mapa.</strong> El contenido real vive en archivos internos, código, checkpoints y evidencia.</p>
+      <p><strong>Semana = cuándo.</strong> Ejemplos, ejercicios, labs y RegistrApp mantienen hogares propios.</p>
+      <p><strong>AVA = autoridad institucional.</strong> Este repositorio complementa y hace reproducible el aprendizaje.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-content">
+      <span>DSY1107 · Desarrollo Cloud Native I</span>
+      <a href="https://github.com/cmartinezs/DSY1107-DESARROLLO-CLOUD-NATIVE-I-2026-2">GitHub</a>
+    </div>
+  </footer>
+  <script src="./app.js"></script>
+</body>
+</html>
