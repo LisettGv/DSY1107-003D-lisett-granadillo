@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1794780863922,90,POST /api/compras,201,,Usuarios concurrentes 1-1,text,true,,304,223,1,1,http://compras-api:8080/api/compras,84,0,39
+1794780864273,27,POST /api/compras,201,,Usuarios concurrentes 1-1,text,true,,303,222,1,1,http://compras-api:8080/api/compras,27,0,0
+1794780866186,23,POST /api/compras,201,,Usuarios concurrentes 1-2,text,true,,304,223,1,1,http://compras-api:8080/api/compras,23,0,3
+1794780866463,9,POST /api/compras,201,,Usuarios concurrentes 1-2,text,true,,302,221,1,1,http://compras-api:8080/api/compras,8,0,0
+1794780869533,11,POST /api/compras,201,,Usuarios concurrentes 1-3,text,true,,304,223,1,1,http://compras-api:8080/api/compras,11,0,2
+1794780869797,23,POST /api/compras,201,,Usuarios concurrentes 1-3,text,true,,303,222,1,1,http://compras-api:8080/api/compras,23,0,0
